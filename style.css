@@ -1,0 +1,23 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: yellow;
+    font-size: 20px;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name{
+    color: black;
+}
+#result_object_accuracy{
+    color: black;
+}
+body{
+    background: linear-gradient(#bd0808 0%, #f5d905 100%);
+}
